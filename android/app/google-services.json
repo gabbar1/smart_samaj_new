@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "635540620217",
+    "project_id": "smart-samaj",
+    "storage_bucket": "smart-samaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635540620217:android:1bf0888aadb25d4ef82c68",
+        "android_client_info": {
+          "package_name": "com.appsolute.smart_samaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635540620217-7h3a4goiai24h7g3kk7on858jutjgrk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsolute.smart_samaj",
+            "certificate_hash": "fda15192aafb97754d8e7c1e6890f8c0c7f7bc0c"
+          }
+        },
+        {
+          "client_id": "635540620217-pkrvra4hkhcegkl3lnr61u0ngo1d77ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsolute.smart_samaj",
+            "certificate_hash": "35420fc6e8348ab32c8fd39539fb76a1eccc0e66"
+          }
+        },
+        {
+          "client_id": "635540620217-vl6b65onalovp97095hifjd9ehgvol45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsolute.smart_samaj",
+            "certificate_hash": "6519e9d75e8caa456625caebc5d139fafdfdacfd"
+          }
+        },
+        {
+          "client_id": "635540620217-op7jja7hhpktna19pofr2telg4lokg1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWazVR8zL1MM3M28qmjKELHa17WjYvH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635540620217-op7jja7hhpktna19pofr2telg4lokg1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635540620217-q6dtfd052k4kuf7gsfifj73k64rg9luk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsolute.samaj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
